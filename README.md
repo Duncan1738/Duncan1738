@@ -35,7 +35,7 @@ Ph.D. student in Big Data at Chosun University (South Korea), working at the int
 - Python, TensorFlow, PyTorch, OpenCV, scikit-learn  
 - FastAPI, Docker, Firebase, GCP  
 - Flutter, Dart  
-- MATLAB, Git, GitHub
+- Python, MATLAB, Git, GitHub
 
 ---
 

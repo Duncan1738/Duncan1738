@@ -5,6 +5,8 @@
 </p>
 
 ---
+I'm a Ph.D. student in Big Data at Chosun University (South Korea), with a multidisciplinary focus on machine learning, computer vision, and AI system deployment. My work spans healthcare, renewable energy, pharmaceutical AI, and intelligent safety monitoring—bridging the gap between academic research and real-world solutions.
+
 ---
 
 ## Areas of Focus

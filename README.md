@@ -6,7 +6,7 @@
 </p>
 
 <!-- Cool Title and Summary -->
-<h2 align="center">🚀 Turning Research into Real-World Impact</h2>
+<h2 align="center"> Turning Research into Real-World Impact</h2>
 
 <p align="center">
   <strong>Duncan Kibet</strong> · Ph.D. Candidate at <strong>Chosun University</strong>, 🇰🇷 South Korea  
@@ -24,8 +24,15 @@
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
-
-<!-- More About Me -->
 <p align="center">
-  🔗 <a href="https://about-duncankibet.web.app" target="_blank"><b>about-duncankibet.web.app</b></a>
+  🔗 <a href="https://about-duncankibet.web.app" target="_blank"><b>More about me</b></a>
 </p>
+
+<!-- ASCII ART HEADER -->
+<pre align="center">
+  ____                                 _  __ _     _      
+ |  _ \  ___  _ __   ___  _ __   ___ | |/ _(_) __| | ___  
+ | | | |/ _ \| '_ \ / _ \| '_ \ / _ \| | |_| |/ _` |/ _ \ 
+ | |_| | (_) | | | | (_) | | | | (_) | |  _| | (_| |  __/ 
+ |____/ \___/|_| |_|\___/|_| |_|\___/|_|_| |_|\__,_|\___| 
+</pre>

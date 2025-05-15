@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 <p align="center">
-  🔗 <a href="https://about-duncankibet.web.app" target="_blank"><b>More about me</b></a>
+  🔗 <a href="https://about-duncan.web.app" target="_blank"><b>More about me</b></a>
 </p>
 
 <!-- ASCII ART HEADER -->

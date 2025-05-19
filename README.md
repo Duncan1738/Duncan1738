@@ -27,6 +27,37 @@
 <p align="center">
   🔗 <a href="https://about-duncan.web.app" target="_blank"><b>More about me</b></a>
 </p>
+<details>
+<summary>▼ Details</summary>
+
+## 🛠️ Some of the tools I've used
+<br>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
+</p>
+
+## 📊 Stats
+<br>
+
+<p align="center">
+  <a href="https://github.com/Duncan1738">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duncan1738&theme=shadow_green&layout=compact&card_width=320&langs_count=8"/>
+  </a>
+  <a href="https://github.com/Duncan1738">
+    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Duncan1738&theme=shadow_green&card_width=320">
+  </a>
+</p>
+
+</details>
 
 <!-- ASCII ART HEADER -->
 <!-- 🔥 Stylized ASCII Art Header for Duncan Kibet -->

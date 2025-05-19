@@ -28,9 +28,9 @@
   🔗 <a href="https://about-duncan.web.app" target="_blank"><b>More about me</b></a>
 </p>
 <details>
-<summary>▼ Details</summary>
+<summary> Details</summary>
 
-## 🛠️ Some of the tools I've used
+## Some of the tools I've used
 <br>
 
 <p align="center">
@@ -45,7 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
 </p>
 
-## 📊 Stats
+## Stats
 <br>
 
 <p align="center">
@@ -60,7 +60,7 @@
 </details>
 
 <!-- ASCII ART HEADER -->
-<!-- 🔥 Stylized ASCII Art Header for Duncan Kibet -->
+<!-- Stylized ASCII Art Header for Duncan Kibet -->
 
 <pre align="center">
   ██████╗ ██╗   ██╗ ██████╗ ███╗   ██╗ ██████╗ ██████╗ 

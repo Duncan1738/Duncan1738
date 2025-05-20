@@ -1,5 +1,3 @@
-<!-- ✨ DUNCAN KIBET GITHUB HEADER ✨ -->
-
 <!-- Typing SVG Header -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFC8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Duncan+Kibet;PhD+Candidate+%7C+Big+Data+%7C+AI+Researcher;Computer+Vision+%7C+LLMs+%7C+ML+Engineer" alt="Typing SVG" />

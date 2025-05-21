@@ -14,12 +14,11 @@
   Applying AI to <b>Healthcare</b>, <b>Energy</b>, <b>Pharma</b>, and <b>Safety Monitoring</b>
 </p>
 
-
+<details>
+<summary> Details</summary>
 <p align="center">
   🔗 <a href="https://about-duncan.web.app" target="_blank"><b>More about me</b></a>
 </p>
-<details>
-<summary> Details</summary>
 
 ## Tools that i use:
 <br>
@@ -44,4 +43,3 @@
  ╚██████╔╝╚██████╔╝██║ ╚████║╚██████╗╚██████╔╝
   ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ 
 </pre>
-

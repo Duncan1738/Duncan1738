@@ -33,20 +33,6 @@
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
-## Stats
-<br>
-
-<p align="center">
-  <a href="https://github.com/Duncan1738">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duncan1738&theme=shadow_green&layout=compact&card_width=320&langs_count=8"/>
-  </a>
-  <a href="https://github.com/Duncan1738">
-    <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Duncan1738&theme=shadow_green&card_width=320">
-  </a>
-</p>
-
-</details>
-
 <!-- ASCII ART HEADER -->
 <!-- Stylized ASCII Art Header for Duncan Kibet -->
 

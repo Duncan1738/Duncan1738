@@ -19,19 +19,6 @@
 <p align="center">
   🔗 <a href="https://about-duncan.web.app" target="_blank"><b>More about me</b></a>
 </p>
-
-## Tools that i use:
-<br>
-
-<!-- Tech Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
-
 <!-- ASCII ART HEADER -->
 <!-- Stylized ASCII Art Header for Duncan Kibet -->
 

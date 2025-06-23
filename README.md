@@ -12,7 +12,7 @@
 <details>
 <summary> Details</summary>
 <p align="center">
-  🔗 <a href="https://about-duncan.web.app" target="_blank"><b>More about me</b></a>
+  🔗 <a href="https://about-duncankibet1.web.app" target="_blank"><b>More about me</b></a>
 </p>
 <!-- ASCII ART HEADER -->
 <!-- Stylized ASCII Art Header for Duncan Kibet -->

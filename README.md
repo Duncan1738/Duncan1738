@@ -14,14 +14,4 @@
 <p align="center">
   🔗 <a href="https://dk-profile.web.app" target="_blank"><b>More about me</b></a>
 </p>
-<!-- ASCII ART HEADER -->
-<!-- Stylized ASCII Art Header for Duncan Kibet -->
 
-<pre align="center">
-  ██████╗ ██╗   ██╗███╗   ██╗ ██████╗ ██████╗ 
- ██╔═══██╗██║   ██║████╗  ██║██╔════╝██╔═══██╗
- ██║   ██║██║   ██║██╔██╗ ██║██║     ██║   ██║
- ██║   ██║██║   ██║██║╚██╗██║██║     ██║   ██║
- ╚██████╔╝╚██████╔╝██║ ╚████║╚██████╗╚██████╔╝
-  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ 
-</pre>

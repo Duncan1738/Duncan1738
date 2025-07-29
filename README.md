@@ -1,17 +1,23 @@
-<!-- Cool Title and Summary -->
-<h2 align="center"> Turning Research into Real-World Impact</h2>
+<!-- Research Summary Section -->
+<h2 align="center" style="font-size: 2rem; font-weight: bold; margin-top: 40px;">
+  Turning Research into Real-World Impact
+</h2>
 
-<p align="center">
-  <strong>Duncan Kibet</strong> · Ph.D. Candidate at <strong>Chosun University</strong>, 🇰🇷 South Korea  
+<p align="center" style="font-size: 1.1rem; line-height: 1.6;">
+  <strong>Duncan Kibet</strong> · Ph.D. Candidate at <strong>Chosun University</strong>, South Korea  
   <br>
-  <em>Specializing in</em> <b>Big Data</b>, <b>Machine Learning</b>, <b>Computer Vision</b>, <b>LLMs</b>, & <b>AI-Powered Systems</b>  
+  <em>Expertise in</em> <strong>Big Data</strong>, <strong>Machine Learning</strong>, <strong>Computer Vision</strong>, <strong>LLMs</strong>, and <strong>AI-Powered Systems</strong>  
   <br>
-  Applying AI to <b>Healthcare</b>, <b>Energy</b>, <b>Pharma</b>, and <b>Safety Monitoring</b>
+  Driving innovation in <strong>Healthcare</strong>, <strong>Energy</strong>, <strong>Pharmaceuticals</strong>, and <strong>Safety Monitoring</strong>
 </p>
 
 <details>
-<summary> Details</summary>
-<p align="center">
-  🔗 <a href="https://dk-profiles.web.app" target="_blank"><b>More about me</b></a>
-</p>
-
+  <summary style="cursor: pointer; text-align: center; font-weight: bold; margin-top: 20px;">
+    Learn More
+  </summary>
+  <p align="center" style="margin-top: 10px;">
+    <a href="https://dk-profiles.web.app" target="_blank" style="font-weight: bold; color: #2563eb; text-decoration: none;">
+      Visit My Portfolio
+    </a>
+  </p>
+</details>

@@ -6,18 +6,12 @@
 <p align="center" style="font-size: 1.1rem; line-height: 1.6;">
   <strong>Duncan Kibet</strong> · Ph.D. Candidate at <strong>Chosun University</strong>, South Korea  
   <br>
+  <a href="https://dk-profiles.web.app" target="_blank" style="font-weight: bold; color: #2563eb; text-decoration: none;">
+    Visit My Portfolio
+  </a>
+  <br>
   <em>Expertise in</em> <strong>Big Data</strong>, <strong>Machine Learning</strong>, <strong>Computer Vision</strong>, <strong>LLMs</strong>, and <strong>AI-Powered Systems</strong>  
   <br>
   Driving innovation in <strong>Healthcare</strong>, <strong>Energy</strong>, <strong>Pharmaceuticals</strong>, and <strong>Safety Monitoring</strong>
 </p>
 
-<details>
-  <summary style="cursor: pointer; text-align: center; font-weight: bold; margin-top: 20px;">
-    Learn More
-  </summary>
-  <p align="center" style="margin-top: 10px;">
-    <a href="https://dk-profiles.web.app" target="_blank" style="font-weight: bold; color: #2563eb; text-decoration: none;">
-      Visit My Portfolio
-    </a>
-  </p>
-</details>

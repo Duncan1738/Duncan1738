@@ -12,6 +12,7 @@
   <br>
   <em>Expertise in</em> <strong>Big Data</strong>, <strong>Machine Learning</strong>, <strong>Computer Vision</strong>, <strong>LLMs</strong>, and <strong>AI-Powered Systems</strong>  
   <br>
-  Driving innovation in <strong>Healthcare</strong>, <strong>Energy</strong>, <strong>cheminformatics</strong>, and <strong>Safety Monitoring.</strong>
+  Driving innovation in <strong>Healthcare</strong>, <strong>Energy</strong>, <strong>Cheminformatics</strong>, and <strong>Safety Monitoring</strong>.
 </p>
+
 

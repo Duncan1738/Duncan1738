@@ -1,13 +1,13 @@
 ## Turning Research into Real-World Impact
 
 <p align="center">
-  <strong>Duncan Kibet</strong><br>
+  <strong style="font-size: 1.2em;">Duncan Kibet</strong><br>
   Ph.D. Candidate · <strong>Chosun University</strong>, South Korea
 </p>
 
 <p align="center">
   <a href="https://dk-profiles.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563eb?style=for-the-badge" />
   </a>
 </p>
 

@@ -1,18 +1,55 @@
 <!-- Research Summary Section -->
-<h2 align="center" style="font-size: 2rem; font-weight: bold; margin-top: 40px;">
+<h2 align="center" style="
+  font-size: 2.2rem;
+  font-weight: 700;
+  margin-top: 48px;
+  letter-spacing: -0.5px;
+">
   Turning Research into Real-World Impact
 </h2>
 
-<p align="center" style="font-size: 1.1rem; line-height: 1.6;">
-  <strong>Duncan Kibet</strong> · Ph.D. Candidate at <strong>Chosun University</strong>, South Korea  
-  <br>
-  <a href="https://dk-profiles.web.app" target="_blank" style="font-weight: bold; color: #2563eb; text-decoration: none;">
-    Visit My Portfolio
+<p align="center" style="
+  font-size: 1.15rem;
+  line-height: 1.8;
+  max-width: 820px;
+  margin: 0 auto;
+  color: #374151;
+">
+  <strong style="font-size: 1.25rem;">Duncan Kibet</strong><br>
+  <span style="opacity: 0.9;">
+    Ph.D. Candidate · <strong>Chosun University</strong>, South Korea
+  </span>
+  <br><br>
+
+  <a href="https://dk-profiles.web.app"
+     target="_blank"
+     style="
+       display: inline-block;
+       padding: 10px 18px;
+       border-radius: 999px;
+       background: #2563eb;
+       color: #ffffff;
+       font-weight: 600;
+       text-decoration: none;
+       box-shadow: 0 4px 14px rgba(37, 99, 235, 0.35);
+     ">
+    Visit My Portfolio →
   </a>
-  <br>
-  <em>Expertise in</em> <strong>Big Data</strong>, <strong>Machine Learning</strong>, <strong>Computer Vision</strong>, <strong>LLMs</strong>, and <strong>AI-Powered Systems</strong>  
-  <br>
-  Driving innovation in <strong>Healthcare</strong>, <strong>Energy</strong>, <strong>Cheminformatics</strong>, and <strong>Safety Monitoring</strong>.
+
+  <br><br>
+
+  <em>Expertise in</em><br>
+  <strong>
+    Big Data · Machine Learning · Computer Vision · LLMs · AI-Powered Systems
+  </strong>
+
+  <br><br>
+
+  Driving innovation across<br>
+  <strong>
+    Healthcare · Energy · Cheminformatics · Safety Monitoring
+  </strong>
 </p>
+
 
 

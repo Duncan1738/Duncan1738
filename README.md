@@ -7,10 +7,7 @@
 
 <p align="center">
   <a href="https://dk-profiles.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Work-2563eb?style=for-the-badge" />
-  </a>
-  <a href="https://dk-profiles.web.app">
-    <img src="https://img.shields.io/badge/Portfolio-Research%20%26%20Projects-475569?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-View%20Work-2563eb?style=for-the-badge" alt="View Portfolio"/>
   </a>
 </p>
 

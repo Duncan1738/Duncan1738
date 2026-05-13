@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Duncan Kibet</strong><br>
-  Ph.D. Candidate · <strong>Chosun University</strong>, South Korea
+  Ph.D. Candidate · <strong>Chosun University</strong>, South Korea.
 </p>
 
 <p align="center">
